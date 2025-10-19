@@ -1,0 +1,5 @@
+{
+  "name": "Content Logger",
+  "description": "A simple content logging system that allows users to create, edit, and delete notes. All data is saved locally in the browser's local storage.",
+  "requestFramePermissions": []
+}
